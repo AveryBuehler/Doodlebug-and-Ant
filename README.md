@@ -1,0 +1,2 @@
+# Doodlebug-and-Ant
+The goal was to create a 2-D predator-prey simulation. In this simulation, the prey are ants and the predators are doodlebugs. These critters live in a world composed of a 20x20 grid of cells. Only one critter may occupy a cell at a time. The grid is enclosed, so a critter is not allowed off the edges of the grid. Time is simulated in iterations. Each critter performs some action every step. The ASCII characters of "o" for an ant and "X" for a doodlebug are used.
